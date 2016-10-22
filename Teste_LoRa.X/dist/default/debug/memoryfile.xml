@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/debug/Teste_LoRa.X.debug.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>1024</length>
+      <used>754</used>
+      <free>270</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>16128</length>
+      <used>13329</used>
+      <free>2799</free>
+    </memory>
+  </executable>
+</project>
